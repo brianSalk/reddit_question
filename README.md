@@ -1,3 +1,4 @@
 # Reddit Question
 
-I really don't know of a better way to share code.  You will have to copy the contents of **simulate.py** and paste the code into an interpreter such as [the one here](https://www.programiz.com/python-programming/online-compiler/#google_vignette)
+I really don't know of a better way to share code.  You will have to copy the contents of **simulate.py** and paste the code into an interpreter such as [the one here](https://www.programiz.com/python-programming/online-compiler/#google_vignette) in order to run the code.  
+Thank you soooo much for helping me answer this question!  
